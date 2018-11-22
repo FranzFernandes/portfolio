@@ -1,0 +1,8 @@
+{
+    // Disable default VSCode formatting for JavaScript
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true
+}

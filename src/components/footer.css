@@ -1,0 +1,19 @@
+#footerText a {
+    color: #2ec4b6;
+}
+
+#footerText {
+    font-size: 30px;
+    line-height: 1.4;
+    width: 50vw;
+}
+
+@media only screen and (max-width: 600px) {
+    #footerText {
+        font-size: 18px;
+        text-align: center;
+        line-height: 1.4;
+        width: 80%;
+    }
+
+}
